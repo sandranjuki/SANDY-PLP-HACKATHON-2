@@ -38,7 +38,7 @@ AI: OpenAI GPT model integration
 
 📂 Project Structure MediLink-AI/ │── app.py # Main Flask app │── patients.db # SQLite database (auto-created) │── templates/ │ └── index.html # Frontend template │── README.md # Documentation │── requirements.txt # Python dependencies
 
-⚡ Installation & Setup 1️⃣ Clone Repo / Download Project git clone https://github.com/sandranjuki/PLP-HACKATHON-2.git cd medtrackr-ai
+⚡ Installation & Setup 1️⃣ Clone Repo / Download Project git clone https://github.com/sandranjuki/SANDY-PLP-HACKATHON-2.git cd medtrackr-ai
 
 2️⃣ Install Dependencies pip install flask openai
 
